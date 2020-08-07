@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\bin\Debug\netcoreapp3.1\CensusAnaluzers.deps.json
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\bin\Debug\netcoreapp3.1\CensusAnaluzers.dll
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\bin\Debug\netcoreapp3.1\CensusAnaluzers.pdb
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\obj\Debug\netcoreapp3.1\CensusAnaluzers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\obj\Debug\netcoreapp3.1\CensusAnaluzers.AssemblyInfo.cs
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\obj\Debug\netcoreapp3.1\CensusAnaluzers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\obj\Debug\netcoreapp3.1\CensusAnaluzers.dll
+C:\Users\user\source\repos\CensusAnaluzers\CensusAnaluzers\obj\Debug\netcoreapp3.1\CensusAnaluzers.pdb
